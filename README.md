@@ -1,5 +1,7 @@
 # Raspberry PI for CC1101 E07-M1101S Modules
 
+<img src="https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc1101-pi-spring.jpg" alt="Pi with spring antenna"> 
+
 This shield is used to hold [CC1101][1] Transceiver module with Raspbery PI. As soon as pinout is the same it should also works with 868 and/or 915 modules. You can easily find theese modules on Aliexpress.
 
 It has just few minimal features, it has been created to be used for [Cyble RF 433Mhz][4] everblue reading water meter in France.
@@ -84,6 +86,6 @@ See news and other projects on my [blog][2]
 [1]: https://www.cdebyte.com/products/E07-M1101S
 [2]: https://hallard.me
 [3]: https://oshpark.com/shared_projects/BVwV2j3b
-[4]: http://www.lamaisonsimon.fr/wiki/doku.php?id=maison2:compteur_d_eau:compteur_d_eau
 [5]: https://github.com/neutrinus/everblu-meters
-[5]: https://github.com/hallard/everblu-meters-pi
+[6]: https://github.com/hallard/everblu-meters-pi
+[4]: http://www.lamaisonsimon.fr/wiki/doku.php?id=maison2:compteur_d_eau:compteur_d_eau
