@@ -40,7 +40,7 @@ Raspberry PI   On Board LEDS
 
 ### Schematics
 
-![schematics](https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc-1101-pi-sch.png)  
+<img src="https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc1101-pi-sch.png" alt="Schematics">    
 
 ### Boards  
 
@@ -83,6 +83,7 @@ You can do whatever you like with this design.
 ## Misc
 
 See news and other projects on my [blog][2] 
+
 [1]: https://www.cdebyte.com/products/E07-M1101S
 [2]: https://hallard.me
 [3]: https://oshpark.com/shared_projects/BVwV2j3b
