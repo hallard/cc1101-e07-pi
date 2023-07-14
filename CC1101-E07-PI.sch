@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="25" unitdist="mil" unit="mil" style="dots" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="63" fill="1" visible="no" active="no"/>
@@ -1727,12 +1727,12 @@ Standard A4 size frame in Landscape</description>
 <attribute name="NAME" x="136.525" y="115.3414" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="138.43" y="109.982" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SUPPLY6" gate="GND" x="156.845" y="111.76" rot="R90"/>
+<instance part="SUPPLY6" gate="GND" x="157.48" y="111.76" rot="R90"/>
 <instance part="R2" gate="G$1" x="135.255" y="101.6" smashed="yes" rot="R180">
 <attribute name="NAME" x="136.525" y="105.1814" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="138.43" y="99.822" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SUPPLY7" gate="GND" x="156.845" y="101.6" rot="R90"/>
+<instance part="SUPPLY7" gate="GND" x="158.115" y="101.6" rot="R90"/>
 <instance part="NAME" gate="G$1" x="-24.13" y="-19.05" smashed="yes">
 <attribute name="DRAWING_NAME" x="157.48" y="-7.62" size="2.54" layer="94" font="vector"/>
 <attribute name="LAST_DATE_TIME" x="157.48" y="-12.7" size="2.286" layer="94" font="vector"/>
@@ -1748,7 +1748,7 @@ Standard A4 size frame in Landscape</description>
 <attribute name="NAME" x="136.525" y="95.0214" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="136.525" y="89.662" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="SUPPLY1" gate="GND" x="157.48" y="91.44" rot="R90"/>
+<instance part="SUPPLY1" gate="GND" x="158.75" y="91.44" rot="R90"/>
 <instance part="LED1" gate="G$1" x="146.685" y="111.76" smashed="yes">
 <attribute name="NAME" x="148.971" y="112.268" size="1.27" layer="95" ratio="10"/>
 <attribute name="VALUE" x="145.034" y="107.315" size="1.27" layer="96" ratio="10"/>
@@ -1866,17 +1866,17 @@ Standard A4 size frame in Landscape</description>
 </segment>
 <segment>
 <pinref part="SUPPLY6" gate="GND" pin="GND"/>
-<wire x1="154.305" y1="111.76" x2="150.495" y2="111.76" width="0.1524" layer="91"/>
+<wire x1="154.94" y1="111.76" x2="150.495" y2="111.76" width="0.1524" layer="91"/>
 <pinref part="LED1" gate="G$1" pin="-"/>
 </segment>
 <segment>
 <pinref part="SUPPLY7" gate="GND" pin="GND"/>
-<wire x1="150.495" y1="101.6" x2="154.305" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="150.495" y1="101.6" x2="155.575" y2="101.6" width="0.1524" layer="91"/>
 <pinref part="LED2" gate="G$1" pin="-"/>
 </segment>
 <segment>
 <pinref part="SUPPLY1" gate="GND" pin="GND"/>
-<wire x1="150.495" y1="91.44" x2="154.94" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="150.495" y1="91.44" x2="156.21" y2="91.44" width="0.1524" layer="91"/>
 <pinref part="LED3" gate="G$1" pin="-"/>
 </segment>
 <segment>
