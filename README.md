@@ -1,4 +1,4 @@
-# Raspberry PI for CC1101 E07-M1101S Modules
+# CC1101 Mini Shield with E07-M1101S Modules for Raspberry PI
 
 <img src="https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc1101-pi-spring.jpg" alt="Pi with spring antenna"> 
 
@@ -37,7 +37,6 @@ Raspberry PI   On Board LEDS
    GPIO7   <---->  LED3 (Blue)
 ```
 
-
 ### Schematics
 
 <img src="https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc1101-pi-sch.png" alt="Schematics">    
@@ -74,7 +73,7 @@ I'll put some of these board on tindie so you will be able to get one soon.
 
 Software original code (but also all the hard work to get thingd working was originaly done [here][4] then put on github by @neutrinus [here][5].
 
-I added some changes to the original firmware and this [one][6] should run out of the box with this board, just plug, and play.
+I added some changes to the original firmware and this [one][6] should run out of the box with this board (including leds control), just plug, and play.
 
 ## License
 
