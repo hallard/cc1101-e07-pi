@@ -35,22 +35,13 @@ Raspberry PI      On Board LEDS
    GPIO7   <---->  LED3 (Blue)
 ```
 
-
-## Boards  
-
-### PCB
-
-<img src="https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc1101-pi-top.png" alt="Top">    
-
-<img src="https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc1101-pi-bot.png" alt="Bottom"> 
-
-### Assembled boards
+## Assembled boards
 
 <img src="https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc1101-pi-top.jpg" alt="Top Assembled">    
 
 <img src="https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc1101-pi-bot.jpg" alt="Bottom Assembled"> 
 
-### Connected to Raspberry PI
+## Connected to Raspberry PI
 
 <img src="https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc1101-pi-spring.jpg" alt="Pi with spring antenna"> 
 
