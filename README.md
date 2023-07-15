@@ -67,9 +67,9 @@ You can do whatever you like with this design.
 
 <img src="https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc1101-pi-batch.jpg" alt="CC1101-PI Batch"> 
 
-I've put some of these board on [tindie][7], so you can order one (EU only) from my [store][7] .
+I've put some of these board on [tindie][7], so you can order one (EU only) from my [store][7].
 
-<a href="https://www.tindie.com/products/28907/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
+<a href="https://www.tindie.com/products/hallard/cc1101-mini-shield-for-raspberry-pi/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
 ## Misc
 
@@ -81,4 +81,4 @@ See news and other projects on my [blog][2]
 [4]: http://www.lamaisonsimon.fr/wiki/doku.php?id=maison2:compteur_d_eau:compteur_d_eau
 [5]: https://github.com/neutrinus/everblu-meters
 [6]: https://github.com/hallard/everblu-meters-pi
-[7]: hhttps://www.tindie.com/products/hallard/cc1101-mini-shield-for-raspberry-pi/
+[7]: https://www.tindie.com/products/hallard/cc1101-mini-shield-for-raspberry-pi
