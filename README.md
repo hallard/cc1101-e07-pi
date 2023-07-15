@@ -1,4 +1,4 @@
-# CC1101 Mini Shield with E07-M1101S Modules for Raspberry PI
+# CC1101 E07 Shield for Raspberry PI
 
 <img src="https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc1101-pi-zero.jpg" alt="on PI Zero with spring antenna"> 
 
