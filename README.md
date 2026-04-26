@@ -67,8 +67,12 @@ You can do whatever you like with this design.
 
 <img src="https://raw.githubusercontent.com/hallard/cc1101-e07-pi/master/images/cc1101-pi-batch.jpg" alt="CC1101-PI Batch"> 
 
-I've put some of these board on [tindie][7], so you can order one (EU only) from my [store][7].
+I've put some of these board on [tindie][7], so you can order one (EU only) from my [store][7]. They are also available on [Lectronz](https://lectronz.com/products/cc1101-pi).
 
+European customers may prefer ordering on Lectronz, which offers additional payment methods and pricing in Euros.
+
+<a href="https://lectronz.com/stores/hallard" alt="I sell on Lectronz"><img src="https://lectronz-images.b-cdn.net/static/badges/i-sell-on-lectronz-medium.png" /></a>
+<a href="https://lectronz.com/products/cc1101-pi" alt="Buy it on Lectronz"><img src="https://lectronz-images.b-cdn.net/static/badges/buy-it-on-lectronz-medium.png" /></a>
 <a href="https://www.tindie.com/products/hallard/cc1101-mini-shield-for-raspberry-pi/"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png" alt="I sell on Tindie" width="150" height="78"></a>
 
 ## Misc
